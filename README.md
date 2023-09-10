@@ -1,6 +1,5 @@
-## 视频解析 - VideoParse
+## Video Parsing Website
 
-视频解析端口收集
 Video Parse Tool
 
-[网站](https://caryio.github.io/VideoParseWeb/)
+[Website](https://caryio.github.io/VideoParseWeb/)
